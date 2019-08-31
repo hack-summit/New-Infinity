@@ -1,6 +1,7 @@
 # New-Infinity
 Smart cities
-MARK ME!: The most intelligent attendance system- designed for startups,schools and developing countries
+# MARK ME!: The most intelligent attendance system- designed for startups,schools and developing countries
+
 It has 2 components:
           1)Android app- To record the attendances using NFC, QR and Face Recognition
           2)Web based dashboard- To view and manage attendances
