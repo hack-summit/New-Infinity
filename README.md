@@ -18,6 +18,7 @@ python recognize.py
 
 NOTE:1)To use other faces for detection, change the path to the image file at ln:24, in recognize.py
      2)The model currently labels unknown images randomly, we are working on a fix to it.
+     
 NOTE:
     Execute "python flsk.py", and go to http://127.0.0.1:5000/AI to get into the Attendance dashboard
  
